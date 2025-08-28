@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there!%20I'm%20Karan%20👋&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there!%20I'm%20Atharva%20👋&fontSize=30&animation=fadeIn" />
 </p>
 
 <!-- Badges / Social Links -->
