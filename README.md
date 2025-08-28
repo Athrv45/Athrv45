@@ -18,6 +18,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Athrv45&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🌱 I’m a **Software Engineer fresher** exploring **MERN stack, Java, and AI-driven applications**.  
@@ -45,20 +52,30 @@
 
 ### 🚀 Featured Projects
 
-- 🌦️ [Weather App](https://github.com/YOUR-USERNAME/weather-app) – Real-time weather dashboard with OpenWeather API.  
-- 🛒 [E-Commerce Store (MERN)](https://github.com/YOUR-USERNAME/mern-store) – Full-stack shopping platform with cart & payments.  
-- 🤖 [AI Workflow Automation](https://github.com/YOUR-USERNAME/ai-workflow) – Multi-agent system for task automation.  
+- 🌦️ [Weather App](https://github.com/Athrv45/weather-app) – Real-time weather dashboard with OpenWeather API.  
+- 🛒 [E-Commerce Store (MERN)](https://github.com/Athrv45/mern-store) – Full-stack shopping platform with cart & payments.  
+- 🤖 [AI Workflow Automation](https://github.com/Athrv45/ai-workflow) – Multi-agent system for task automation.  
 
 ---
 
 ### 🐍 Fun Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
+### 🎭 Extras
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Athrv45&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+</p>
+
+---
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
